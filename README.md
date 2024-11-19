@@ -1,5 +1,6 @@
-GitHub Repository:
-https://github.com/tusharbansal19/channelblend-sneakers
+GitHub Repository: 
+(https://github.com/tusharbansal19/ChannelBlend)
+
 
 
 Source Code: the entire project to the GitHub repository, including both the frontend (React app) and any backend code (if applicable).
